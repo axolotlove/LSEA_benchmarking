@@ -1,0 +1,11 @@
+# ALPHA = 0.05
+# NUMBER_OF_TESTS = 5525
+
+# _SET1_  VARIABLE = BERGER_MBD2_TARGETS (set)
+# _SET1_  NGENES = 4
+# _SET1_  P-VALUE = 2.43487e-06
+_SET1_   GENE    CHR      START       STOP  NSNPS  NPARAM     N        ZSTAT            P  ZFITTED_BASE  ZRESID_BASE
+_SET1_   63036     1   15783223   15798586     54       7  1000       1.9247     0.024197    9.1598e-07       1.9247
+_SET1_   5646      9   33750464   33799229     96      13  1000      -1.0023      0.83067    9.1598e-07      -1.0023
+_SET1_   1056      9  135936741  135947250      3       1  1000      0.54664      0.27551    9.1598e-07      0.54664
+_SET1_   7032     21   43766466   43771208     13       3  1000      0.37682      0.33421    9.1598e-07      0.37682
